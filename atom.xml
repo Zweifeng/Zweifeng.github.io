@@ -4,9 +4,9 @@
   <subtitle>Quick notes</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://Zweifeng.github.io/"/>
   <updated>2017-07-31T06:15:38.977Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://Zweifeng.github.io/</id>
   
   <author>
     <name>Alex</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Cmd Markdown 编辑阅读器</title>
-    <link href="http://yoursite.com/2014/08/05/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%20Cmd%20Markdown%20%E7%BC%96%E8%BE%91%E9%98%85%E8%AF%BB%E5%99%A8/"/>
-    <id>http://yoursite.com/2014/08/05/欢迎使用 Cmd Markdown 编辑阅读器/</id>
+    <link href="https://Zweifeng.github.io/2014/08/05/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%20Cmd%20Markdown%20%E7%BC%96%E8%BE%91%E9%98%85%E8%AF%BB%E5%99%A8/"/>
+    <id>https://Zweifeng.github.io/2014/08/05/欢迎使用 Cmd Markdown 编辑阅读器/</id>
     <published>2014-08-05T03:15:00.000Z</published>
     <updated>2017-07-31T06:15:38.977Z</updated>
     
@@ -126,17 +126,17 @@
     
     </summary>
     
-      <category term="其他" scheme="http://yoursite.com/categories/other/"/>
+      <category term="其他" scheme="https://Zweifeng.github.io/categories/other/"/>
     
     
-      <category term="碎碎念" scheme="http://yoursite.com/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+      <category term="碎碎念" scheme="https://Zweifeng.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2014/08/01/hello-world/"/>
-    <id>http://yoursite.com/2014/08/01/hello-world/</id>
+    <link href="https://Zweifeng.github.io/2014/08/01/hello-world/"/>
+    <id>https://Zweifeng.github.io/2014/08/01/hello-world/</id>
     <published>2014-08-01T03:15:00.000Z</published>
     <updated>2017-07-31T06:15:16.211Z</updated>
     
@@ -158,12 +158,12 @@
     
     </summary>
     
-      <category term="编程" scheme="http://yoursite.com/categories/programming/"/>
+      <category term="编程" scheme="https://Zweifeng.github.io/categories/programming/"/>
     
     
-      <category term="碎碎念" scheme="http://yoursite.com/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+      <category term="碎碎念" scheme="https://Zweifeng.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
-      <category term="Program" scheme="http://yoursite.com/tags/Program/"/>
+      <category term="Program" scheme="https://Zweifeng.github.io/tags/Program/"/>
     
   </entry>
   
