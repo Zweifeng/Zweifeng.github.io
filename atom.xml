@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-31T04:49:17.493Z</updated>
+  <updated>2017-07-31T05:45:08.246Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2014/08/05/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%20Cmd%20Markdown%20%E7%BC%96%E8%BE%91%E9%98%85%E8%AF%BB%E5%99%A8/"/>
     <id>http://yoursite.com/2014/08/05/欢迎使用 Cmd Markdown 编辑阅读器/</id>
     <published>2014-08-05T03:15:00.000Z</published>
-    <updated>2017-07-31T04:49:17.493Z</updated>
+    <updated>2017-07-31T05:45:08.246Z</updated>
     
     <content type="html"><![CDATA[<p>Cmd Markdown 编辑阅读器</p>
 <hr>
@@ -129,7 +129,7 @@
     <link href="http://yoursite.com/2014/08/01/hello-world/"/>
     <id>http://yoursite.com/2014/08/01/hello-world/</id>
     <published>2014-08-01T03:15:00.000Z</published>
-    <updated>2017-07-31T05:37:33.330Z</updated>
+    <updated>2017-07-31T05:46:51.485Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -151,7 +151,9 @@
       <category term="编程" scheme="http://yoursite.com/categories/programming/"/>
     
     
-      <category term="碎碎念 Program" scheme="http://yoursite.com/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5-Program/"/>
+      <category term="碎碎念" scheme="http://yoursite.com/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+      <category term="Program" scheme="http://yoursite.com/tags/Program/"/>
     
   </entry>
   
