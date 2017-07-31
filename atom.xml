@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://Zweifeng.github.io/"/>
-  <updated>2017-07-31T06:15:38.977Z</updated>
+  <updated>2017-07-31T09:47:26.384Z</updated>
   <id>https://Zweifeng.github.io/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>Cmd Markdown 编辑阅读器</title>
-    <link href="https://Zweifeng.github.io/2014/08/05/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%20Cmd%20Markdown%20%E7%BC%96%E8%BE%91%E9%98%85%E8%AF%BB%E5%99%A8/"/>
-    <id>https://Zweifeng.github.io/2014/08/05/欢迎使用 Cmd Markdown 编辑阅读器/</id>
-    <published>2014-08-05T03:15:00.000Z</published>
-    <updated>2017-07-31T06:15:38.977Z</updated>
+    <link href="https://Zweifeng.github.io/2017/08/05/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%20Cmd%20Markdown%20%E7%BC%96%E8%BE%91%E9%98%85%E8%AF%BB%E5%99%A8/"/>
+    <id>https://Zweifeng.github.io/2017/08/05/欢迎使用 Cmd Markdown 编辑阅读器/</id>
+    <published>2017-08-05T03:15:00.000Z</published>
+    <updated>2017-07-31T09:47:26.384Z</updated>
     
     <content type="html"><![CDATA[<p>Cmd Markdown 编辑阅读器</p>
 <hr>
@@ -135,10 +135,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://Zweifeng.github.io/2014/08/01/hello-world/"/>
-    <id>https://Zweifeng.github.io/2014/08/01/hello-world/</id>
-    <published>2014-08-01T03:15:00.000Z</published>
-    <updated>2017-07-31T06:15:16.211Z</updated>
+    <link href="https://Zweifeng.github.io/2017/08/01/hello-world/"/>
+    <id>https://Zweifeng.github.io/2017/08/01/hello-world/</id>
+    <published>2017-08-01T03:15:00.000Z</published>
+    <updated>2017-07-31T09:47:20.789Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <a id="more"></a>
