@@ -85,6 +85,45 @@
   </entry>
   
   <entry>
+    <title>IntelliJ IDEA常用快捷键</title>
+    <link href="https://Zweifeng.github.io/2017/08/06/IntelliJ%20IDEA%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <id>https://Zweifeng.github.io/2017/08/06/IntelliJ IDEA常用快捷键/</id>
+    <published>2017-08-06T02:20:00.000Z</published>
+    <updated>2017-08-24T03:27:51.016Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="IntelliJ-IDEA常用快捷键"><a href="#IntelliJ-IDEA常用快捷键" class="headerlink" title="IntelliJ IDEA常用快捷键"></a>IntelliJ IDEA常用快捷键</h1><hr>
+<h2 id="IntelliJ-IDEA你会用的最多的快捷键"><a href="#IntelliJ-IDEA你会用的最多的快捷键" class="headerlink" title="IntelliJ IDEA你会用的最多的快捷键"></a>IntelliJ IDEA你会用的最多的快捷键</h2><p>Alt + F7：查找一个属性或方法被谁调用</p>
+<p>Shift + F6：重命名一个属性或方法</p>
+<p>Ctrl + Alt + space(空格)：输入提示</p>
+<p>Alt + Enter：引入类或提供给你选择的处理方法</p>
+<p>Ctrl + 向上：不移动光标，往上滑屏</p>
+<p>Ctrl + 向下：不移动光标，往下滑屏</p>
+<p>Ctrl + Shift + up：向上移动一行</p>
+<p>Ctrl + Shift + down：向下移动一行</p>
+<p>Ctrl + Shift + F：在选中的文件目录里搜索</p>
+<p>Ctrl + Alt + B：可以查看一个类的subtype(s)。包括subclass(s) or implementation(s)</p>
+<p>Ctrl + H：可以查看一个类继承关系，也能达到你要的效果</p>
+<p>Ctrl + Alt + L：格式化代码(自动调整代码格式)</p>
+<p>Shift + Enter：光标从任意位置跳到下一行</p>
+<p>Alt + Delete：安全删除字段或方法</p>
+<p>Ctrl + Alt + N：把一些方法或变量赋值放在这，可以去除一些多余的赋值过程，这在重构中会非常常用</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;IntelliJ-IDEA常用快捷键&quot;&gt;&lt;a href=&quot;#IntelliJ-IDEA常用快捷键&quot; class=&quot;headerlink&quot; title=&quot;IntelliJ IDEA常用快捷键&quot;&gt;&lt;/a&gt;IntelliJ IDEA常用快捷键&lt;/h1&gt;&lt;hr&gt;
+&lt;h2 
+    
+    </summary>
+    
+      <category term="生活" scheme="https://Zweifeng.github.io/categories/life/"/>
+    
+    
+      <category term="碎碎念" scheme="https://Zweifeng.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Cmd Markdown 编辑阅读器</title>
     <link href="https://Zweifeng.github.io/2017/08/05/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%20Cmd%20Markdown%20%E7%BC%96%E8%BE%91%E9%98%85%E8%AF%BB%E5%99%A8/"/>
     <id>https://Zweifeng.github.io/2017/08/05/欢迎使用 Cmd Markdown 编辑阅读器/</id>
